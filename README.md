@@ -1,1 +1,1 @@
-# iac-demo-fargate
+# demo-fargate-infra
